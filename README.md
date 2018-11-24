@@ -1,7 +1,7 @@
 # GalleryApplication
 Created by: Ryan Nichol
 
-To see the full functionality of the application I recommed you watch the example_video.mp4 located in the root folder of the project.
+To see the full functionality of the application I recommend you watch the example_video.mp4 located in the root folder of the project.
 
 The GalleryApplication fetches images from an API, then displays a single image at a time on the screen. To go to the next image press the next button. To go to the previous image press the previous button.
 
